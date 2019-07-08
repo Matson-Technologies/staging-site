@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://matson-technologies.github.io/staging-site/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="4.1.0" -->
+<!-- generated-on="July 8, 2019 2:23 pm" -->
+<sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<sitemap>
+		<loc>https://matson-technologies.github.io/staging-site/sitemap-misc.xml</loc>
+		<lastmod>2019-07-06T23:58:45+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://matson-technologies.github.io/staging-site/sitemap-pt-post-2019-06.xml</loc>
+		<lastmod>2019-06-28T09:33:11+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://matson-technologies.github.io/staging-site/sitemap-pt-post-2019-04.xml</loc>
+		<lastmod>2019-04-26T09:41:55+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://matson-technologies.github.io/staging-site/sitemap-pt-post-2019-03.xml</loc>
+		<lastmod>2019-03-12T07:11:29+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://matson-technologies.github.io/staging-site/sitemap-pt-page-2019-06.xml</loc>
+		<lastmod>2019-06-28T09:33:11+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://matson-technologies.github.io/staging-site/sitemap-pt-page-2019-05.xml</loc>
+		<lastmod>2019-05-07T12:41:31+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://matson-technologies.github.io/staging-site/sitemap-pt-page-2019-04.xml</loc>
+		<lastmod>2019-06-28T10:27:14+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://matson-technologies.github.io/staging-site/sitemap-pt-page-2019-03.xml</loc>
+		<lastmod>2019-03-28T09:54:03+00:00</lastmod>
+	</sitemap>
+</sitemapindex><!-- Request ID: b9121d0817482d82d0e84e6637c6fe23; Queries for sitemap: 5; Total queries: 34; Seconds: 0.01; Memory for sitemap: 0MB; Total memory: 2MB -->
